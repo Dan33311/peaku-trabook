@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.navbar {
+  outline: 1px solid salmon;
+  width: 1170px;
+}
+
+.test {
+  color: green;
+}
