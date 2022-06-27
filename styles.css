@@ -48,7 +48,7 @@
 .deals span {
   color: #FD8D3A;
 }
-.deals p {
+.deals-desc {
   width: 433px;
   margin: auto;
   margin-top: 24px;
@@ -59,11 +59,28 @@
 }
 /*  ----   deals-card   ------  */
 .deals-card{
-  outline: 1px solid salmon;
+  /* outline: 1px solid salmon; */
   width: 270px;
   height: 426px;
 }
-
-.test {
-  color: green;
+.card-body {
+  width: 100%;
+}
+.start {
+  width: 16px;
+  height: 16px;
+}
+.rating {
+  margin-bottom: 0;
+}
+.pin {
+  width: 12.57px;
+  height: 16px;
+}
+.price-before {
+  text-decoration: line-through;
+  color: #999999;
+}
+.price-now{
+  color: #FA7436;
 }
