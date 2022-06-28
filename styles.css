@@ -161,8 +161,7 @@
 
 /*  --------  Updates  ---------------------------------------------  */
 .subscribe {
-  background-color: #FA7436;
-  border-radius: 16px;
+  background-image: url(./img/Subscribe.png);
   width: 1170px;
   height: 416px;
 }
